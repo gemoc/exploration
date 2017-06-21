@@ -3,7 +3,7 @@
       id="org.gemoc.mocc.clocksystem.common.feature"
       label="Common Features for ClockSystem"
       version="0.0.1.qualifier"
-      provider-name="ENSTA Bretagne"
+      provider-name="%providerName"
       image="gemocstudio32.png">
 
    <description>
