@@ -3,7 +3,8 @@
       id="org.gemoc.mocc.transformations.feature"
       label="Transformations for exhaustive exploration"
       version="0.0.1.qualifier"
-      provider-name="ENSTA Bretagne">
+      provider-name="ENSTA Bretagne"
+      image="gemocstudio32.png">
 
    <description url="http://www.example.com/description">
       [Enter Feature Description here.]
@@ -17,8 +18,8 @@ which accompanies this distribution, and is available at
 http://www.eclipse.org/legal/epl-v10.html
    </copyright>
 
-   <license url="http://www.example.com/license">
-      [Enter License Description here.]
+   <license url="%licenseURL">
+      %license
    </license>
 
    <plugin
